@@ -1,4 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans&family=Oswald&display=swap');
+body {
+	font-family: 'Oswald', sans-serif;
+}
 .header{
 	color: red;
 	text-align: center;
+}
+.header-card__title {
+	font-family:'Balsamiq Sans', cursive;
 }
