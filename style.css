@@ -1,4 +1,10 @@
+body {
+	font-family: 'Oswald', sans-serif;
+}
 .header{
 	color: red;
 	text-align: center;
+}
+.header-card__title {
+	font-family:'Balsamiq Sans', cursive;
 }
